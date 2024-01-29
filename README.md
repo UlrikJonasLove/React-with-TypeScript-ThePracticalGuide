@@ -3,10 +3,11 @@ All the projects from Udemy Course "React and TypeScript - The Practical Guide" 
 
 [React and TypeScript - The Practical Guide on Udemy](https://www.udemy.com/course/react-typescript-the-practical-guide/)
 
-### 1. The Essentials - Course Goal Project 1
+### 1. The Essentials - Course Goal Project
 
 * The essentials on using React with TypeScript
 * Defining types
 * Using interfaces as types and reusing across files
 * Using PropsWithChildren type
 * Using useState and useRef with Types and user input in a type-safe way
+* Dynamic/Flexible component with Discriminated Unions type
