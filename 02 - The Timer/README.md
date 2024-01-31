@@ -9,6 +9,14 @@
 * useRef hook and forwardRefs
 * Sharing logic with the unknown type
 
+#### Advanced type-safe state
+
+* useContext with TypeScript
+* useReducer with TypeScript
+* Custom hook
+* Changing state with action types
+
+
 ### "npm install" (use terminal in folder)
 
 To install node_modules folder 
