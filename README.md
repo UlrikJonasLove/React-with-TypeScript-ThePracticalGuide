@@ -13,7 +13,7 @@ All the projects from Udemy Course "React and TypeScript - The Practical Guide" 
 * Dynamic/Flexible component with Discriminated Unions type
 
 
-### .2 The Timer Project
+### 2. The Timer Project
 
 #### Advanced component types
 
@@ -30,3 +30,9 @@ All the projects from Udemy Course "React and TypeScript - The Practical Guide" 
 * useReducer with TypeScript
 * Custom hook
 * Changing state with action types
+
+#### Side effects
+
+* Using useEffet with TypeScript
+* Intervals with refs and effect cleanup function
+* useEffects depencencies

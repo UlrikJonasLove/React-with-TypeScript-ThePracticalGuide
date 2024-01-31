@@ -16,6 +16,12 @@
 * Custom hook
 * Changing state with action types
 
+#### Side effects
+
+* Using useEffet with TypeScript
+* Intervals with refs and effect cleanup function
+* useEffects depencencies
+
 
 ### "npm install" (use terminal in folder)
 
