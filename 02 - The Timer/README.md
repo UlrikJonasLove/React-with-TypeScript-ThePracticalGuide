@@ -18,7 +18,7 @@
 
 #### Side effects
 
-* Using useEffet with TypeScript
+* Using useEffect with TypeScript
 * Intervals with refs and effect cleanup function
 * useEffects depencencies
 

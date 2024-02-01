@@ -12,7 +12,6 @@ All the projects from Udemy Course "React and TypeScript - The Practical Guide" 
 * Using useState and useRef with Types and user input in a type-safe way
 * Dynamic/Flexible component with Discriminated Unions type
 
-
 ### 2. The Timer Project
 
 #### Advanced component types
@@ -33,6 +32,13 @@ All the projects from Udemy Course "React and TypeScript - The Practical Guide" 
 
 #### Side effects
 
-* Using useEffet with TypeScript
+* Using useEffect with TypeScript
 * Intervals with refs and effect cleanup function
 * useEffects depencencies
+
+### 3. The Simple Blog Project
+
+* using fetch to fetch data with TypeScript
+* Error handling with TypeScript
+* useEffect for the data fetching
+* useState for the fetched data and error handling
