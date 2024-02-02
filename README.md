@@ -42,3 +42,11 @@ All the projects from Udemy Course "React and TypeScript - The Practical Guide" 
 * Error handling with TypeScript
 * useEffect for the data fetching
 * useState for the fetched data and error handling
+
+### 4. Elegant Redux Project
+
+* Redux with TypeScript
+* Custom types and hooks with TypeScript
+* More type-safe useSelector
+* More type-safe useDispatch
+* Setting a state type
