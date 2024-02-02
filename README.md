@@ -50,3 +50,7 @@ All the projects from Udemy Course "React and TypeScript - The Practical Guide" 
 * More type-safe useSelector
 * More type-safe useDispatch
 * Setting a state type
+
+### 5. Book a Session Project
+
+* This is a project with some of the concepts above
